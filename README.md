@@ -1,2 +1,2 @@
 # NBA-Draft-Model
-This analysis attempts to predict NBA performance based on college statistics. The sample contains college players drafted from 2011-2016. 
+This analysis attempts to predict NBA performance based on college statistics. The sample contains college players drafted from 2011-2016. The data includes box score statistics, advanced college statistics, and physical measurements. The emphasis on this analysis is probabilistic modelling. I use machine learning techniques to predict the probability (or likelihood) that an NBA prospect will be an all-star, starter, bench, and bust. 
